@@ -1,0 +1,5 @@
+Heavy items require dual-arm support if weight exceeds 20kg.
+Check load balance before lifting.
+Maximum recommended weight for single-arm lifting is 25kg.
+Ensure stable base positioning.
+

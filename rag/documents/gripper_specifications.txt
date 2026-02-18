@@ -1,0 +1,4 @@
+The robotic gripper maximum weight capacity is 25kg.
+Soft grip mode is available for fragile materials.
+Grip strength can be adjusted between 10% and 100%.
+

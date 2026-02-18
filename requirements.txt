@@ -1,0 +1,9 @@
+opencv-python
+numpy
+matplotlib
+torch
+torchvision
+scikit-learn
+sentence-transformers
+faiss-cpu
+transformers

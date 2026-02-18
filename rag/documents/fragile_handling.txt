@@ -1,0 +1,5 @@
+Fragile items must be handled with reduced gripper pressure.
+The robotic arm speed should be limited to 30%.
+Avoid stacking fragile packages.
+Use soft padding during transport.
+

@@ -1,0 +1,4 @@
+If battery level falls below 15%, return to charging station.
+Battery overheating requires immediate shutdown.
+Maximum operating time is 6 hours.
+

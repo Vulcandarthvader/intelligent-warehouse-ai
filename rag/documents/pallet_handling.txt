@@ -1,0 +1,4 @@
+Pallets should be lifted from the base.
+Check alignment before elevation.
+Ensure center of mass is stable.
+
