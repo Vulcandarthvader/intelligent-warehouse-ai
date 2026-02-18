@@ -124,6 +124,10 @@ source venv/bin/activate
 ### Classification & RAG Output
 ![Integration](screenshots/mainintegration.png)
 
+## Demo Video
+
+Watch the full demo here:  
+https://drive.google.com/your-video-link
 
 
 ## Author
