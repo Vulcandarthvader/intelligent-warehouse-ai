@@ -116,6 +116,15 @@ python3 -m venv venv
 source venv/bin/activate
 
 ---
+## Screenshots
+
+### Object Detection Output
+![Detection](screenshots/train.png)
+
+### Classification & RAG Output
+![Integration](screenshots/mainintegration.png)
+
+
 
 ## Author
 
